@@ -31,7 +31,8 @@ The service has the following endpoints:
 * /add-leaf: Adds a single leaf to the Merkle Tree.
 * /add-leaf: Adds multiple leaves to the Merkle Tree.
 * /get-num-leaves Returns the number of leaves in the Merkle Tree.
-* /get-root: Returns the Merkle root of the tree. * /get-proof: Returns the Merkle proof for the leaf at the given index.
+* /get-root: Returns the Merkle root of the tree.
+* /get-proof: Returns the Merkle proof for the leaf at the given index.
 
 ### Example Usage
 
